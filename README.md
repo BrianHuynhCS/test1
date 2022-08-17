@@ -93,6 +93,8 @@
 
 * [![Python][Python]][Python-url]
 * [![R][R]][R-url]
+* [![JavaScript][JavaScript]][JavaScript-url]
+* [![CSS][CSS]][CSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,10 +107,11 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-Below are a list of things you need to use XtractXact.
+Below are a list of things you need downloaded locally to use XtractXact.
 
 * Python (3.8 or above)
 * R
+* chr.zip (unzip file) (Warning: 3.16 GB)
 
 ### Installation
 
@@ -203,3 +206,7 @@ Project Link: [https://github.com/BrianHuynhCS/XtractXact](https://github.com/Br
 [Python-url]: https://www.python.org/
 [R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [R-url]: https://www.r-project.org/
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[JavaScript-url]: https://www.javascript.com/
+[CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://www.w3.org/Style/CSS/Overview.en.html
